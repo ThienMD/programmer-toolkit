@@ -1,4 +1,4 @@
-# programmer-toolkit
+# Programmer Toolkit
 This is a small mac application for developer
 
 Programmer usually take alot of time for some repeat work like  remove some special charactor, replace text and change to other charactor. 
