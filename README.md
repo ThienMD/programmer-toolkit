@@ -7,3 +7,8 @@ So I create this application for use for my self then help other people can redu
 ### Tech of Stack
 * Swift 5
 * Swift UI
+
+### Screenshots
+<p align="center">
+  <img src="assets/screenshot.png" width="350" title="hover text">
+</p>
